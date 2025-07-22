@@ -1,0 +1,80 @@
+body{
+    background-image: url(./image/aa.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif
+}
+.mnlogo{
+    width: 100px;
+}
+.logo{
+    display: flex;
+    margin: -5px 10px;
+}
+.mainbar ul{
+    word-spacing: 75px;
+    margin: 35px 0 50px 50px;
+}
+.mainbar ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+.lists a{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+.slct select{
+    display: block;
+    margin: 35px 30px 0 50px;
+    padding: 5px;
+}
+
+.lists a:link,
+.lists a:visited{
+    color: white;
+}
+.lists a:hover,
+.lists a:active{
+    border: 1px solid white;
+    border-radius: 3px;
+    color: black;
+    background-color: white;
+    padding: 15px 20px;
+}
+.main_heading h1{
+    font-size: 75px;
+    color: white;
+    text-align: center;
+    padding: 75px 75px 0 75px;
+}
+.centerbar ul{
+    margin: -50px 90px 50px 50px;
+    text-align: center;
+}
+.centerbar ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+.lists02 a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+
+.lists02 a:link,
+.lists02 a:visited{
+    color: white;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.lists02 a:hover,
+.lists02 a:active{
+    border: 1px solid white;
+    border-radius: 3px;
+    color: black;
+    background-color: white;
+    padding: 10px 20px;
+}

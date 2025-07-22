@@ -1,0 +1,57 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    background-color: burlywood;
+}
+.bars{
+    background-color: rgb(255, 72, 102);
+    padding: 5px;
+}
+.mainbar{
+        text-align: center;
+        word-spacing: 20px;
+}
+.mainbar ul li{
+        list-style-type: none;
+        display: inline-block;
+}
+.lists a{
+    text-decoration: none;
+    color: black;
+}
+.subhed{
+    text-align: center;
+}
+.head1{
+    text-align: left;
+    padding: 0 25% 0 25%;
+}
+
+.img01{
+    height: 724px;
+    width: 724px;
+    margin-top: 10px;
+    margin-left: 25%;
+}
+.img02{
+    height: 724px;
+    width: 724px;
+    margin-top: 10px;
+    margin-left: 25%;
+}
+.img03{
+    height: 724px;
+    width: 724px;
+    margin-top: 10px;
+    margin-left: 25%;
+}
+.sep-para {
+    text-align: center;
+}
+.head2{
+    padding: 0px 25% 30px 25%;
+    text-align: left;
+}
+p{
+    text-align: left;
+    margin: -25px 25% 20px 25%;
+}
