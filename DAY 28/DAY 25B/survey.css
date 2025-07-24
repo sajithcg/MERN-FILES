@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(13, 13, 90);
+    color: white;
+    font-family: tahoma;
+    
+    }
+    
+.title{
+    text-align: center;
+    }
+.description{
+    font-style: italic;
+    text-align: center;
+    }
+
+form {
+    width: 60vw;
+    max-width: 500px;
+    min-width: 300px;
+    margin: 0 auto;
+    padding-bottom: 2em;
+    border-radius: 10px;
+    }
+
+.survey-form{
+    border-style: solid;
+    border-color: darkgrey;
+    border-width: 3px;
+    padding: 15px;
+    }
+
+label {
+    display: block;
+    margin: 0.5rem 0;
+    }
+
+select {
+    margin: 10px 0 0 0;
+    width: 100%;
+    min-height: 2em;
+    }
+
+.inline {
+    width: unset;
+    margin: 0 0.5em 0 0;
+    vertical-align: middle;
+    }
+.inline2 {
+    display: block;
+    width: unset;
+    margin: 0 0.5em 0 0;
+    line-height: 1.5em;
+    }
+.inputs1 input{
+    margin: 10px 0 0 0;
+    width: 100%;
+    min-height: 2em;
+}
+.inputs2{
+    margin: 10px 0 0 0;
+    width: 100%;
+    min-height: 2em;
+}
+
+.txtarea textarea{
+    margin: 10px 0 0 0;
+    padding: 20px 0px;
+    width: 100%;
+    min-height: 2em;
+}
+
+.submitbut {
+    display: block;
+    width: 60%;
+    margin: 1em auto;
+    height: 2em;
+    font-size: 1.1rem;
+    background-color: rgb(13, 13, 90);
+    border-color: white;
+    color: white;
+    min-width: 300px;
+    }

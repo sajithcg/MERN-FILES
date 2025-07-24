@@ -1,0 +1,71 @@
+.h1 {
+    border-style: solid none solid none;
+    border-color: brown;
+    border-width: 5px;
+    text-align: center;
+    font-size: large;
+    padding: 50px 0 50px 0;
+}
+.bodies {
+    display: flex;
+    margin-top: 25px;
+    padding-left: 10px;
+}
+.body01 {
+    margin-right: 50px;
+}
+.h2title {
+    margin-top: 25px;
+}
+.para01 {
+    text-indent: 50px;
+    line-height: 20px;
+}
+.para01 a{
+    text-decoration: none;
+}
+.para02 {
+    text-indent: 50px;
+    line-height: 20px;
+}
+.list01 {
+    line-height: 20px;
+}
+.para02b {
+    line-height: 25px;
+    margin-left: 30px;
+}
+.para02b a{
+    text-decoration: none;
+}
+
+.bodies02{
+    display: flex;
+    margin: 0 400px 0 30px;
+}
+.list02{
+    line-height: 25px;
+    width: 65%;
+}
+.list02 ul li a {
+    white-space: nowrap;
+}
+.list02 a{
+    text-decoration: none;
+}
+.a01{
+    color: brown;
+}
+.more{
+    color: brown;
+}
+.box{
+    margin-left: 100%;
+}
+
+.box h3{
+    text-align: center;
+    border: 2px solid brown;
+    padding: 30px;
+    margin-bottom: 10px;
+}
