@@ -1,0 +1,94 @@
+body{
+    background-color: bisque;
+}
+.Box{
+    margin-top: 100px;
+    margin-left: 450px;
+}
+.Relativebox{
+    position: relative;
+    border: 3px solid darkblue;
+    height: 512px;
+    width: 550px;
+}
+img{
+    width: 550px;
+    height: 512px;
+    position: absolute;
+}
+
+.absolute{
+    position: absolute;
+    border: 3px solid red;
+    height: 100px;
+    width: 100px;
+    top: 0;
+    left: 0;
+}
+.absolute2{
+    position: absolute;
+    border: 3px solid red;
+    height: 100px;
+    width: 100px;
+    top: 0;
+    right: 0;
+}
+.absolute3{
+    position: absolute;
+    border: 3px solid red;
+    height: 100px;
+    width: 100px;
+    bottom: 0;
+    left: 0;
+}
+.absolute4{
+    position: absolute;
+    border: 3px solid red;
+    height: 100px;
+    width: 100px;
+    bottom: 0;
+    right: 0;
+}
+.circle1{
+    position: absolute;
+    border: 3px solid blue;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    top: 0;
+    left: 40%;
+}
+.circle2{
+    position: absolute;
+    border: 3px solid blue;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    bottom: 0;
+    left: 40%;
+}
+.circle3{
+    position: absolute;
+    border: 3px solid blue;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    left: 0;
+    bottom: 40%;
+}
+.circle4{
+    position: absolute;
+    border: 3px solid blue;
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    right: 0;
+    bottom: 40%;
+}
+.Relativebox p{
+    position: absolute;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    padding: 220px 200px 220px 200px;
+    text-align: center;
+}

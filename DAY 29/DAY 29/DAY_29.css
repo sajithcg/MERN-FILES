@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+body{
+    background-image: url(./images/Plain-bg-blue.jpg);
+    background-repeat: no-repeat;
+}
+.bdy{
+    background-image: url(./images/wide-2560-x-927-background-rybklt99zy39a5wi.jpg);
+    color: aliceblue;
+    padding:5px 5px;
+}
+img{
+    width: 100%;
+    overflow: hidden;
+    margin-top: 10px;
+}
+.bgclr{
+    background-color: blueviolet;
+}

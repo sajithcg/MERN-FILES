@@ -4,7 +4,7 @@ body{
 }
 .bars{
     background-color: rgb(255, 72, 102);
-    padding: 5px;
+    /* padding: 5px; */
 }
 .mainbar{
         text-align: center;
@@ -13,6 +13,7 @@ body{
 .mainbar ul li{
         list-style-type: none;
         display: inline-block;
+        padding-top: 50px;
 }
 .lists a{
     text-decoration: none;
